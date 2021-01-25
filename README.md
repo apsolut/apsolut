@@ -1,5 +1,5 @@
 ### Hi there 👋 Aleksandar Perisic
-⚡ work for @decombh
+⚡ work @ decom.ba
 🔭 WordPress & WooCommerce 
 🤔 Websites & Apps
 
