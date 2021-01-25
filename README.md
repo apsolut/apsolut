@@ -1,4 +1,5 @@
 ### Hi there 👋
+![gif from nerdy.dev](https://github.com/apsolut/apsolut/blob/main/apsolut-space.gif?raw=true)
 
 <!--
 **apsolut/apsolut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
