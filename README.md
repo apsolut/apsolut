@@ -3,6 +3,8 @@
 🔭 WordPress & WooCommerce 
 🤔 Websites & Apps
 
+🌍 [Personal website & CV](https://aleksandarperisic.com/)
+
 ![gif from decom.ba](https://github.com/apsolut/apsolut/blob/main/apsolut-space.gif?raw=true)
 
 <!--
