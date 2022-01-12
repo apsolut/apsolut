@@ -2,7 +2,7 @@
 ⚡ work @ decom.ba
 🔭 WordPress & WooCommerce 
 🤔 Websites & Apps
-
+🌱 I’m currently learning 2022: React, Node 
 🌍 [Personal website & CV](https://aleksandarperisic.com/)
 
 ![gif from decom.ba](https://github.com/apsolut/apsolut/blob/main/apsolut-space.gif?raw=true)
