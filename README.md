@@ -1,9 +1,12 @@
-### Hi there 👋 Aleksandar Perisic
-⚡ work @ decom.ba
+### Aleksandar is creating helpful things for humans using WordPress & WooCommerce
+
+⚡ Transfering custom designs into WordPress custom themes (modern touch: ACF, Composer, Webpack)
+
+💥 Maintenance, Transfers or support/fix/upgrade for legacy things inside WordPress
 
 🔭 WordPress & WooCommerce 
 
-🤔 Websites & Apps 
+🤔 Refreshing GSAP knowledge with: https://www.creativecodingclub.com/
 
 🌱 I’m currently learning 2022: React, Node  
 
