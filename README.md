@@ -2,6 +2,8 @@
 
 ⚡ Transfering custom designs into WordPress custom themes (modern touch: ACF, Composer, Webpack)
 
+✨ Creating small plugins and helpers for clients 
+
 💥 Maintenance, Transfers or support/fix/upgrade for legacy things inside WordPress
 
 🔭 WordPress & WooCommerce 
