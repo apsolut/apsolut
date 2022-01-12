@@ -6,11 +6,11 @@
 
 💥 Maintenance, Transfers or support/fix/upgrade for legacy things inside WordPress
 
-🔭 WordPress & WooCommerce 
-
 🤔 Refreshing GSAP knowledge with: https://www.creativecodingclub.com/
 
 🌱 I’m currently learning 2022: React, Node  
+
+🔭 Hobby: blockchains, figma, gadgets
 
 🌍 [Personal website & CV](https://aleksandarperisic.com/)
 
