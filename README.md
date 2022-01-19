@@ -1,6 +1,8 @@
 ### Aleksandar is creating helpful things for humans using WordPress & WooCommerce
 
-⚡ Transfering custom designs into WordPress custom themes (modern touch: ACF, Composer, Webpack)
+🌍 [Personal website & CV](https://aleksandarperisic.com/)
+
+⚡ Implementing custom designs into WordPress custom themes (modern touch: ACF, Composer, Webpack)
 
 ✨ Creating small plugins and helpers for clients 
 
@@ -12,7 +14,7 @@
 
 🔭 Hobby: blockchains, figma, gadgets
 
-🌍 [Personal website & CV](https://aleksandarperisic.com/)
+
 
 ![gif from decom.ba](https://github.com/apsolut/apsolut/blob/main/apsolut-space.gif?raw=true)
 
