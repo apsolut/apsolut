@@ -1,5 +1,5 @@
 ### Creating helpful things for humans using WordPress & WooCommerce
-#### Name: 
+#### Who?: 
 - Aleksandar Perisic
 - Wife & Dog
 #### Moving to: 
