@@ -1,4 +1,17 @@
-### Aleksandar is creating helpful things for humans using WordPress & WooCommerce
+### Creating helpful things for humans using WordPress & WooCommerce
+#### Name: 
+- Aleksandar Perisic
+- Wife & Dog
+#### Moving to: 
+- München, Germany 
+#### Looking for: 
+- Open for WordPress positions  (Hybrid Munich or Germany Remote)
+### Languages: 
+- English (C2) 
+- Croatian (Native)
+- German (A1) 
+
+#
 
 🌍 [Personal website & CV](https://aleksandarperisic.com/)
 
