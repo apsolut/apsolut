@@ -2,10 +2,8 @@
 #### Who?: 
 - Aleksandar Perisic
 - Wife & Dog
-#### Moving to: 
-- München, Germany 
-#### Looking for: 
-- Open for WordPress positions  (Hybrid Munich or Germany Remote)
+- Just moved to München, Germany 
+
 ### Languages: 
 - English (C2) 
 - Croatian (Native)
