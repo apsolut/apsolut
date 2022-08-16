@@ -1,8 +1,8 @@
-### Creating helpful things for humans using WordPress & WooCommerce
+### Creating helpful things for humans using Code ~WordPress~
 #### Who?: 
 - Aleksandar Perisic
-- Wife & Dog
-- Just moved to München, Germany 
+- Wife, Dog, Gadgets
+- München, Germany 
 
 ### Languages: 
 - English (C2) 
@@ -15,9 +15,9 @@
 
 ⚡ Implementing custom designs into WordPress custom themes (modern touch: ACF, Composer, Webpack)
 
-✨ Creating small plugins and helpers for clients 
+✨ Creating small plugins,helpers and automatisations for clients
 
-💥 Maintenance, Transfers or support/fix/upgrade for legacy things inside WordPress
+💥 Maintenance & Large transfers with Disaster recovery plan, Transfer flows, Implementation flows
 
 🤔 Refreshing GSAP knowledge with: https://www.creativecodingclub.com/
 
