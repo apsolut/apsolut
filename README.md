@@ -5,9 +5,7 @@
 - München, Germany 
 
 ### Languages: 
-- English (C2) 
-- Croatian (Native)
-- German (A1.2) 
+- English (C2) / Croatian (Native) / German (A1.2) 
 
 #
 
