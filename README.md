@@ -1,8 +1,4 @@
 ### Creating helpful things for humans using Code ~WordPress~
-#### Who?: 
-- Aleksandar Perisic
-- Wife, Dog, Gadgets
-- München, Germany 
 
 ### Languages: 
 - English (C2) / Croatian (Native) / German (A1.2) 
