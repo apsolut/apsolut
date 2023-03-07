@@ -9,9 +9,9 @@
 
 ⚡ Implementing custom designs into WordPress custom themes (modern touch: ACF, Composer, Webpack)
 
-✨ Creating small plugins,helpers and automatisations for clients
+✨ Creating small plugins, helpers and automatizations for clients
 
-💥 Maintenance & Large transfers with Disaster recovery plan, Transfer flows, Implementation flows
+💥 Maintenance, Backups, Legacy code updates, Technical SEO
 
 🤔 Refreshing GSAP knowledge with: https://www.creativecodingclub.com/
 
