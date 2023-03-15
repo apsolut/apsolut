@@ -1,4 +1,4 @@
-### Creating helpful things for humans using Code ~WordPress~
+### Creating Helpful Things for Humans using Code ~WordPress~
 
 ### Languages: 
 - English (C2) / Croatian (Native) / German (A1.2) 
