@@ -15,11 +15,7 @@
 
 👯 I’m looking to collaborate on SaaS projects, Open Source projects
 
-🤔 Refreshing GSAP knowledge with: https://www.creativecodingclub.com/
 
-🌱 I’m currently learning 2022 - Present: Advanced JavaScript, React 
-
-🔭 Hobby: gadgets, design, ai
 
 
 
@@ -27,6 +23,11 @@
 
 [My time zone: Central European Time (CET)](https://www.worldtimebuddy.com/?pl=1&lid=3191281,2825297,5419384,5128581&h=3191281&hf=1)
 
+🤔 Refreshing GSAP knowledge with: https://www.creativecodingclub.com/
+
+🌱 I’m currently learning 2022 - Present: Advanced JavaScript, React 
+
+🔭 Hobby: gadgets, design, ai
 
 <!--
 **apsolut/apsolut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
