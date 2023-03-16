@@ -1,9 +1,5 @@
-### Creating Helpful Things for Humans using Code ~WordPress~
+### WordPress developer, Creating Helpful Things for Humans using Code ~WordPress~
 
-### Languages: 
-- English (C2) / Croatian (Native) / German (A1.2) 
-
-#
 
 🌍 [Personal website & CV](https://aleksandarperisic.com/)
 
@@ -14,6 +10,8 @@
 💥 Maintenance, Backups, Legacy code updates, Technical Audits (plus SEO, Keywords)
 
 👯 I’m looking to collaborate on SaaS projects, Open Source projects
+
+🌍 Language: English (C2) / Croatian (Native) / German (A1.2) 
 
 
 
