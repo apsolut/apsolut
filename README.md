@@ -11,13 +11,15 @@
 
 ✨ Creating small plugins, helpers and automatizations for clients
 
-💥 Maintenance, Backups, Legacy code updates, Technical SEO
+💥 Maintenance, Backups, Legacy code updates, Technical Audits (plus SEO, Keywords)
+
+👯 I’m looking to collaborate on SaaS projects, Open Source projects
 
 🤔 Refreshing GSAP knowledge with: https://www.creativecodingclub.com/
 
-🌱 I’m currently learning 2022: React, Node  
+🌱 I’m currently learning 2022 - Present: Advanced JavaScript, React 
 
-🔭 Hobby: blockchains, figma, gadgets
+🔭 Hobby: gadgets, design, ai
 
 
 
