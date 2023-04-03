@@ -5,10 +5,10 @@
 
 ⚡ Implementing custom designs into WordPress custom themes (modern touch: ACF, Composer, Webpack)
 
-✨ Creating small plugins, helpers and automatizations for clients
+✨ Creating small plugins, helpers and automatizations for clients, Maintenance, Backups, Legacy code updates, Technical Audits (Advanced SEO, Keywords)
 
-💥 Maintenance, Backups, Legacy code updates, Technical Audits (Advanced SEO, Keywords)
-
+💥 Public Projects: https://github.com/apsolut-public
+💥 
 👯 I’m looking to collaborate on SaaS projects, Open Source projects
 
 🌍 Language: English (C2) / Croatian (Native) / German (A1.2) 
@@ -25,7 +25,7 @@
 
 🌱 I’m currently learning 2022 - Present: Advanced JavaScript, React 
 
-🔭 Hobby: gadgets, design, ai
+🔭 Hobby: gadgets, design, dog, ai
 
 <!--
 **apsolut/apsolut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
