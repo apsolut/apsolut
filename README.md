@@ -7,7 +7,7 @@
 
 ✨ Creating small plugins, helpers and automatizations for clients
 
-💥 Maintenance, Backups, Legacy code updates, Technical Audits (plus SEO, Keywords)
+💥 Maintenance, Backups, Legacy code updates, Technical Audits (Advanced SEO, Keywords)
 
 👯 I’m looking to collaborate on SaaS projects, Open Source projects
 
