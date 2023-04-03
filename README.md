@@ -5,7 +5,7 @@
 
 ⚡ Implementing custom designs into WordPress custom themes (modern touch: ACF, Composer, Webpack)
 
-✨ Creating small plugins, helpers and automatizations for clients, Maintenance, Backups, Legacy code updates, Technical Audits (Advanced SEO, Keywords)
+✨ Creating small plugins, helpers and automatizations for clients, Maintenance, Backups, Legacy code updates
 
 💥 Public Projects: https://github.com/apsolut-public
 
@@ -13,7 +13,7 @@
 
 🌍 Language: English (C2) / Croatian (Native) / German (A1.2) 
 
-
+💬  Technical Audits 360 (Full-site audits, Advanced SEO, Keywords)
 
 
 
