@@ -11,8 +11,6 @@ Sarching for ➡️ Germany, Remote or Munchen, Hybrid work
 
 💥 Public Projects: https://github.com/apsolut-public
 
-👯 I’m looking to collaborate on SaaS projects, Open Source projects
-
 🌍 Language: English (C2) / Croatian (Native) / German (A1.2) 
 
 💬  Technical Audits 360 (Full-site audits, Advanced SEO, Keywords)
