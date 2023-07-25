@@ -1,4 +1,4 @@
-### WordPress developer, Creating Helpful Things for Humans using Code ~WordPress~
+### Developer, Creating Helpful Things for Humans using Code ~WordPress~
 
 Sarching for ➡️ Germany, Remote or Munchen, Hybrid work  
 
