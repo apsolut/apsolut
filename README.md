@@ -1,13 +1,13 @@
-### Developer, Creating Helpful Things for Humans using Code ~WordPress~
+### WebDev, Creating Helpful Things for Marketing Teams
 
 ~~Sarching for ➡️ Germany, Remote or Munchen, Hybrid work~~
 
 
 🌍 [Personal website & CV](https://aleksandarperisic.com/)
 
-⚡ Implementing custom designs into WordPress custom themes (modern touch: ACF, Composer, Webpack)
+⚡ Implementing custom designs into CMS (WordPress, HubSpot, WooCommerce, ACF, Composer, Webpack)
 
-🚀 Helping Marketing Teams unleash the power with HubSpot layouts, modules, hubdb, leads
+🚀 Helping Marketing Teams unleash the power with HubSpot
 
 ✨ Creating small plugins, helpers and automatizations for clients, Maintenance, Backups, Legacy code updates
 
