@@ -7,15 +7,11 @@
 
 ⚡ Implementing custom designs into CMS (WordPress, HubSpot, WooCommerce, ACF, Composer, Webpack)
 
-🚀 Helping Marketing Teams unleash the power with HubSpot
-
-✨ Creating small plugins, helpers and automatizations for clients, Maintenance, Backups, Legacy code updates
+🚀 Helping Marketing Teams unleash the power of WebDev, Automatizations, or making HubSpot modules & layouts.
 
 💥 Public Projects: https://github.com/apsolut-public
 
 🌍 Language: English (C2) / Croatian (Native) / German (A1.2) 
-
-💬  Technical Audits 360 (Full-site audits, Advanced SEO, Keywords)
 
 
 
@@ -25,9 +21,9 @@
 
 🤔 Refreshing GSAP knowledge with: https://www.creativecodingclub.com/
 
-🌱 I’m currently learning 2022 - Present: Advanced JavaScript, React 
+🌱 I’m always learning: JavaScript, React, GSAP
 
-🔭 Hobby: gadgets, design, dog, ai
+🔭 Hobby: gadgets, design, dog, AI
 
 <!--
 **apsolut/apsolut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
