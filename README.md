@@ -5,9 +5,9 @@
 
 🌍 [Personal website & CV](https://aleksandarperisic.com/)
 
-⚡ Implementing custom designs into CMS (WordPress, HubSpot, WooCommerce, ACF, Composer, Webpack)
+⚡ Further development of corporate websites, constantly optimizing the website for the smoothest user experience and conversions, helping with site structure, implementing best practices, re-structure and more
 
-🚀 Helping Marketing Teams unleash the power of WebDev, Automatizations, or making HubSpot modules & layouts.
+🚀 Helping Marketing Teams unleash the full power as a Fullstack Web Developer, Automatizations, Certified CMS HubSpot DEveloper, WordPress (12+ years of experience), eCommerce (Woo)
 
 💥 Public Projects: https://github.com/apsolut-public
 
