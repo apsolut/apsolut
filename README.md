@@ -3,11 +3,11 @@
 ~~Sarching for ➡️ Germany, Remote or Munchen, Hybrid work~~
 
 
-🌍 [Personal website & CV](https://aleksandarperisic.com/)
+🌍 [Personal website (need update)](https://aleksandarperisic.com/)
 
 ⚡ Further development of corporate websites, constantly optimizing the website for the smoothest user experience and conversions, helping with site structure, implementing best practices, re-structure and more
 
-🚀 Helping Marketing Teams unleash the full power as a Fullstack Web Developer, Automatizations, Certified CMS HubSpot DEveloper, WordPress (12+ years of experience), eCommerce (Woo)
+🚀 Helping Marketing Teams unleash the full power as a Fullstack Web Developer, Automatizations, Certified CMS HubSpot Developer, WordPress (12+ years of experience), eCommerce (Woo)
 
 💥 Public Projects: https://github.com/apsolut-public
 
