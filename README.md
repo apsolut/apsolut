@@ -3,7 +3,7 @@
 ~~Sarching for ➡️ Germany, Remote or Munchen, Hybrid work~~
 
 
-🌍 [Personal website (need update)](https://aleksandarperisic.com/)
+🌍 [Personal website (need's update)](https://aleksandarperisic.com/)
 
 ⚡ Further development of corporate websites, constantly optimizing the website for the smoothest user experience and conversions, helping with site structure, implementing best practices, re-structure and more
 
