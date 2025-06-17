@@ -7,7 +7,7 @@
 
 ⚡ Further development of corporate websites, constantly optimizing the website for the smoothest user experience and conversions, helping with site structure, implementing best practices, re-structure and more
 
-🚀 Helping Marketing Teams unleash the full power as a Fullstack Web Developer, Automatizations, Certified CMS HubSpot Developer, WordPress (12+ years of experience), eCommerce (Woo)
+🚀 Helping Marketing Teams unleash the full power as a Fullstack Web Developer, Automations, Certified CMS HubSpot Developer, WordPress (15+ years of experience), eCommerce (Woo)
 
 💥 Public Projects: https://github.com/apsolut-public
 
