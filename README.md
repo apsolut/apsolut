@@ -1,6 +1,14 @@
 ### WebDev, Creating Helpful Things for Marketing Teams
 
-~~Sarching for ➡️ Germany, Remote or Munchen, Hybrid work~~
+➡️ Germany, Remote, Germany or Munchen, Hybrid work
+
+🧠 Vibe Coding: 💡
+
+ 💻 [Prompt manager](https://beta.rainprompt.com/dashboard) - LIVE **BETA**
+- sharable prompts with public link, self hosted with supabase ...
+
+
+--------- 
 
 
 🌍 [Personal website (need's update)](https://aleksandarperisic.com/)
