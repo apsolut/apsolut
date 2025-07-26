@@ -6,7 +6,12 @@
 
  🧑‍💻🔥 [Prompt manager](https://beta.rainprompt.com/dashboard) - LIVE **BETA**
 - sharable prompts with public link, self hosted with supabase ...
- 
+
+ 🔊 [AI Voice Notes](#) - *Closed BETA*
+- Voice Notes record/upload
+- auto transcribed so you can talk with your own notes, get AI insights
+  
+
  💻 [Live Wall](#) - *Closed BETA*
 - usgin Ably API, real time cross device experience, notifications
 - custom message on multi-screen, agenda live updates
