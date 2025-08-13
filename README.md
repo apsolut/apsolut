@@ -8,7 +8,7 @@
 - sharable prompts with public link, self hosted with supabase ...
 
  🔊 [AI Voice Notes](#) - *Closed BETA*
-- Voice Notes record/upload
+- Voice Notes record/upload, Vector Database
 - auto transcribed so you can talk with your own notes, get AI insights
   
 
