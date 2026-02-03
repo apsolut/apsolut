@@ -1,45 +1,81 @@
-### WebDev, Creating Helpful Things for Marketing Teams
+# Hi there, I'm Aleksandar 👋
+### Full-Stack Developer & AI Solutions Architect
+📍 *Munich Area, Germany (Starnberg)* | 🌍 *Remote / Hybrid*
 
-➡️ Germany, Remote, Germany or Munchen, Hybrid work
+> **Current Status:** Happy building cool things, but always open to discussing innovative projects or roles that combine **AI Engineering, Marketing Automation, and Modern Web Dev.**
 
-🧠 Vibe Coding: 💡
+---
 
- 🧑‍💻🔥 [Prompt manager](https://beta.rainprompt.com/dashboard) - LIVE **BETA**
-- sharable prompts with public link, self hosted with supabase ...
+## 🚀 About Me
+I am a **Web Developer & "Vibe Coder"** who focuses on speed-to-market and practical AI application. I bridge the gap between Marketing teams and Engineering by building tools that automate workflows, generate insights, and engage users.
 
- 🔊 [AI Voice Notes](#) - *Closed BETA*
-- Voice Notes record/upload, Vector Database
-- auto transcribed so you can talk with your own notes, get AI insights
-  
+My focus recently has shifted to **AI-First Engineering**: using Large Language Models (LLMs), Vector Databases, and real-time data to build Competitive Intelligence platforms and SaaS prototypes.
 
- 💻 [Live Wall](#) - *Closed BETA*
-- usgin Ably API, real time cross device experience, notifications
-- custom message on multi-screen, agenda live updates
+---
 
---------- 
+## 🛠️ The Tech Stack
+*   **Core:** React, Next.js, TypeScript, Node.js
+*   **Mobile:** Expo, React Native
+*   **AI & Data:** OpenAI API, Perplexity API, Anthropic, Supabase (Vector), Firecrawl, Unstructured.io, Helicone (Cost/Latency tracking)
+*   **Infrastructure:** Vercel, Docker, Coolify, PostgreSQL
+*   **Marketing Ops:** HubSpot (Certified), n8n Automation, WordPress/WooCommerce
 
+---
 
-🌍 [Personal website (need's update)](https://aleksandarperisic.com/)
+## 💡 Featured Projects (AI & SaaS)
 
-⚡ Further development of corporate websites, constantly optimizing the website for the smoothest user experience and conversions, helping with site structure, implementing best practices, re-structure and more
+### 🧠 **Competitive Intelligence Platform (Latest Build)**
+A comprehensive dashboard for tracking competitors in real-time.
+*   **Tech:** Next.js, Firecrawl, Unstructured.io, Postgres Vector DB.
+*   **Features:**
+    *   **Automated Ingestion:** Crawls competitor sitemaps/PDFs and converts them into "Evidence" using Vector Search.
+    *   **Battlecards:** Generates AI-driven executive summaries, pricing analyses, and feature gaps (Sonar/OpenAI models).
+    *   **Analytics:** Integrated **Helicone** to track token usage, latency, and cost-per-user in real-time.
+    *   **Chat with Data:** RAG (Retrieval-Augmented Generation) chat interface that only references verified internal "Evidence" files.
 
-🚀 Helping Marketing Teams unleash the full power as a Fullstack Web Developer, Automations, Certified CMS HubSpot Developer, WordPress (15+ years of experience), eCommerce (Woo)
+### 🧑‍💻 **Rain Prompt (Live Beta)**
+A centralized prompt management system for developers and prompt engineers.
+*   **Link:** [beta.rainprompt.com](https://beta.rainprompt.com/dashboard)
+*   **Features:** Store, organize, and share prompts via public links. Includes subscription models and collaborative notes.
 
-💥 Public Projects: https://github.com/apsolut-public
+### 📱 **Real-Time Seat Management (Mobile)**
+A reservation system for high-volume venues (Clubs/Restaurants).
+*   **Tech:** Expo (React Native), Supabase Realtime.
+*   **Features:**
+    *   Custom floor plan builder and management.
+    *   Conflict-free reservations using real-time database subscription.
+    *   Specific time-slot logic to handle "nightlife hours" (e.g., crossing past midnight).
 
-🌍 Language: English (C2) / Croatian (Native) / German (A1.2) 
+### 🎨 **Event & Marketing Tools**
+*   **AI Photo Booth:** Users scan a QR code (device-detected routing via `ua-parser-js`), upload a selfie, and get an instant AI-generated branded overlay stored via Cloudinary/Supabase.
+*   **Gamified Advent Calendar:** A 24-day interactive marketing module integrated directly into **HubSpot** via iFrame, featuring an admin panel for daily questions and LinkedIn gifting automation.
+*   **Smart QR Generator:** Dynamic QR codes that route users to the Apple App Store or Google Play Store based on their device OS.
 
+---
 
+## 🤖 Experimental & "Vibe Coding"
+I spend my free time exploring the limits of Local LLMs and Agents.
+*   **Generative Video:** Experiments with Gemini AI Studio for personalized Christmas video generation.
+*   **Balkan Interior Designer:** A custom agent trained on specific regional architectural styles (Mediterranean/Balkan) to remodel uploaded room photos while keeping structural integrity.
+*   **N8n Automations:** Building decentralized competitive intelligence agents that feed custom dashboards.
+
+---
+
+## 🌐 Professional Background
+I help companies unleash the full power of their marketing stack.
+*   **Marketing Automation:** Deep expertise in HubSpot CMS and CRM integrations.
+*   **Web Optimization:** 15+ years with WordPress/WooCommerce, focusing on conversion rates and user experience.
+*   **Privacy First:** Experience building GDPR-compliant tools hosted on European infrastructure.
+
+---
+
+### 📬 Get in Touch
+*   **Languages:** English (C2), Croatian (Native), German (A1.2 - Learning!)
+*   **Time Zone:** [CET (Central European Time)](https://www.worldtimebuddy.com/?pl=1&lid=3191281)
+*   **Location:** 82319 Starnberg, Germany
 
 ![gif from decom.ba](https://github.com/apsolut/apsolut/blob/main/apsolut-space.gif?raw=true)
 
-[My time zone: Central European Time (CET)](https://www.worldtimebuddy.com/?pl=1&lid=3191281,2825297,5419384,5128581&h=3191281&hf=1)
-
-🤔 Refreshing GSAP knowledge with: https://www.creativecodingclub.com/
-
-🌱 I’m always learning: JavaScript, React, GSAP
-
-🔭 Hobby: gadgets, design, dog, AI
 
 <!--
 **apsolut/apsolut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
