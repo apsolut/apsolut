@@ -72,7 +72,7 @@
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-apsolut.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://apsolut.com)
+[![Website](https://img.shields.io/badge/-aleksandarperisic.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://aleksandarperisic.com)
 [![LinkedIn](https://img.shields.io/badge/-Aleksandar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apsolut/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apsolut)
 
