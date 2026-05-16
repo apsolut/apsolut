@@ -1,6 +1,6 @@
 # Hi, I'm Aleksandar 👋
 
-📍 **Munich ↔ Starnberg** | 🧠 **Marketing-ops native, AI-first builder** | 🇪🇺 **EU-hosted by default**
+📍 **Munich ↔ Starnberg** | 🧠 **Marketing Engineer** | 🇪🇺 **EU-hosted by default**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -8,18 +8,27 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white)
+![Turso](https://img.shields.io/badge/-Turso-4FF8D2?style=flat-square&logo=turso&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> Deep in vibe-coding mode – after 15+ years of WordPress/WooCommerce, I've gone all-in on **Next.js, React, and the LLM stack**. Building the middle layer between marketing and engineering at ludicrous speed.
+> **I build the AI tooling marketing and product teams actually use.**
+> 20 years of production web experience – after 15+ years deep in WordPress/WooCommerce, I'm all-in on **Next.js, React, and the LLM stack**. Building the middle layer between marketing and engineering at ludicrous speed.
+
+## Currently
+
+- 💼 **[NiCE Cognigy](https://www.cognigy.com/)** (2023→) – Full-stack web for the conversational AI platform (~$950M acquisition)
+- 🌐 **[Toptal](https://www.toptal.com/)** (2021→) – Freelance full-stack
+- 🤝 **Available for select engagements** – details at **[aleksandarperisic.com](https://aleksandarperisic.com)** (Ship · Cited · Hybrid · In-team)
 
 ## Current Projects
 
-- 🧠 **Competitive Intelligence Platform** – The AI that actually reads your competitors so you don't have to. Firecrawl + Vector DB + Helicone cost tracking.
-- 🌧️ **[Rain Prompt](https://beta.rainprompt.com/dashboard)** – Git, but for prompts. Store, share, subscribe.
+- 🕵️ **CIA – Competitive Intelligence Agent** *(open-sourcing soon)* – Local-first intel pipeline with git-versioned briefs. Firecrawl + Vector DB + Helicone cost tracking.
+- 🔭 **Brand Intelligence** *(in development)* – SEO for AI answers. Visibility tracking across ChatGPT, Claude, Gemini, Perplexity.
+- 📚 **[PromptStash](https://promptstash.apsolut.dev/dashboard)** – Git, but for prompts. Store, share, subscribe.
 - 🎟️ **Real-Time Seat Management** – Reservations that survive nightlife hours (past midnight? handled).
 - 📸 **AI Photo Booth** – Scan QR, upload selfie, get branded AI overlay. Event marketing at vibe-speed.
 - 🎁 **Gamified Advent Calendar** – 24 days of HubSpot-native engagement with LinkedIn gifting automation.
@@ -27,17 +36,6 @@
 - 🏛️ **Balkan Interior Designer** – Regional architecture agent that remodels rooms with structural integrity intact.
 - 🎬 **Personalized Xmas Videos** – Gemini-generated greetings at marketing scale.
 - 🤖 **n8n Competitive Intel Agents** – Decentralized scrapers feeding custom dashboards while I sleep.
-
-### The Stack
-
-**Now building with:**
-- **Frontend:** Next.js, React, TypeScript, Expo/React Native
-- **AI:** Anthropic, OpenAI, Perplexity Sonar, Helicone for cost & latency
-- **Data:** Supabase (Vector), Postgres, Firecrawl, Unstructured.io
-- **Infra:** Vercel, Docker, Coolify – GDPR from day zero, not day 100
-- **Marketing Ops:** HubSpot (certified), n8n
-
-**Where I came from:** WordPress, WooCommerce, PHP – 15+ years of it. Still fluent, rarely nostalgic.
 
 ## 🧰 Open-Source Toolbox
 
@@ -48,9 +46,23 @@
 - 📋 **[pastekit](https://github.com/apsolut/pastekit)** – Define your copy-paste fields once, click to copy forever. For the person who types the same five things every day.
 - 🔖 **[raindrop-mapping](https://github.com/apsolut/raindrop-mapping)** – Export Raindrop.io bookmarks with full collection + group hierarchy. Your tree, in CSV.
 
+## The Stack
+
+**Daily drivers:** Claude Code · n8n · Next.js · OpenRouter · Turso · Vercel · Coolify
+
+**Now building with:**
+- **Frontend:** Next.js, React, TypeScript, Expo/React Native
+- **AI:** Anthropic, OpenAI, OpenRouter, Perplexity Sonar, Helicone for cost & latency
+- **Data:** Turso, Supabase (Vector), Postgres, Firecrawl, Unstructured.io
+- **Infra:** Vercel, Docker, Coolify – GDPR from day zero, not day 100
+- **Marketing Ops:** HubSpot (certified), n8n
+
+**Where I came from:** WordPress, WooCommerce, PHP – 15+ years of it. Still fluent, rarely nostalgic.
+
 ## 🧪 In the Lab
 
 - 📡 **Deep-Signal Marketing Intel** – Triangulating what every data source sees separately. One signal is a hypothesis, three is a trend, six is a story worth taking to the CMO.
+- 🔎 **Answer Engine Optimization (AEO)** – Schema, entity authority, and content patterns that get you cited by ChatGPT/Claude/Gemini/Perplexity – not just ranked by Google.
 - 🌐 **Chrome APIs (Origin Trial)** – Poking at the browser's bleeding edge. On-device AI, new web platform primitives, whatever Chrome ships next – tested before it lands.
 - 📱 **Android + Electron Apps** – Same logic, more surfaces. Web is great; pocket and desktop are next.
 
@@ -66,6 +78,7 @@
 ## What I'm Doing
 
 - **Bridging marketing & engineering** – Most "martech" is too marketing or too tech. I build the middle layer.
+- **Cited, not just ranked** – Optimizing for AI answers, not only search results.
 - **Shipping in days, not quarters** – Vibe coding is real; the skill is knowing when to stop.
 - **Privacy-first by reflex** – EU hosting, data-minimal pipelines, GDPR-compliant by construction.
 - **Exploring the agent stack** – RAG, tool use, observability. Watching local LLMs get scary-good.
@@ -80,8 +93,9 @@
 
 ### Recognition
 
+- Marketing Engineer at NiCE Cognigy (~$950M acquisition)
 - HubSpot Certified
-- 15+ years in WordPress/WooCommerce – the foundation, not the destination
+- 20 years in production web · 15+ in WordPress/WooCommerce – the foundation, not the destination
 - Working at the intersection of LLMs, marketing ops, and real-time web
 
 ### Philosophy
